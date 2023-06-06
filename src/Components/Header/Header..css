@@ -1,0 +1,11 @@
+.Header a{
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 10px;
+}
+.Header a:hover{
+    background-color: aqua;
+}
+.active{
+    background-color: aquamarine;
+}
